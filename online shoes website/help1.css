@@ -1,0 +1,29 @@
+.help-section {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .help-section h2 {
+    font-weight: bold;
+    margin-top: 0;
+  }
+  
+  .contact-info {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .phone-number {
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .name {
+    font-size: 16px;
+    color: #666;
+  }

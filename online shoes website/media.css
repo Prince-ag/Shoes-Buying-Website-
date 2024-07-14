@@ -1,0 +1,15 @@
+@media (max-width : 600px){
+    .logo{
+        width: 20px;
+        height: 100%;
+    }
+    .nav-menu ul{
+        display: none;
+    }
+    /* .nav-menu i{
+        display: block;
+    } */
+    .box #heading{
+        font-size: 10px;
+    }
+}
